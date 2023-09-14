@@ -1,7 +1,4 @@
 # nosql-challenge
-
-
-nosql-challenge
 =====================
 
 
