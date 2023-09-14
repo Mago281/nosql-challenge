@@ -5,7 +5,6 @@
 Assistance from
 ---------------
 
-
 1.  Tuition session with Michael Wenz
 
 2.  1-on-1 tutor Jesse Wright
@@ -14,19 +13,17 @@ Assistance from
 
 4.  ChatGPT
 
-
+-------------------------------------------------------------------
 
 In-class activities
 -------------------
 
-
 Class 2 Activities: 02, 04, 06, 07 & Class 3 Activities 01, 02, 07
 
-
+-------------------------------------------------------------------
 
 YouTube Videos
 --------------
-
 
 1.  from Mark Jenson: Mongo in 30 Minutes: https://www.youtube.com/watch?v=pWbMrx5rVBE
 
