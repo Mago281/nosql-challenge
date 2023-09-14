@@ -24,8 +24,8 @@ Class 2 Activities: 02, 04, 06, 07 & Class 3 Activities 01, 02, 07
 
 
 
-YouTube Videos & Cheat Sheets
------------------------------
+YouTube Videos
+--------------
 
 
 1.  from Mark Jenson: Mongo in 30 Minutes: https://www.youtube.com/watch?v=pWbMrx5rVBE
